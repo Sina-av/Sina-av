@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a gradute student, focusing on computational solid mechanics. I have expertise in numerical algorithms, and computer programming with concentration in mechanics. My interests also lie at combination of mechanics with mathematics, especially in the field of Finite Element Analysis. 
+
 <!--
 **Sina-av/Sina-av** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
